@@ -9,3 +9,8 @@
 def some_fn(*args, **kwargs):
     pass
 ```
+
+### Run tests
+```
+python decorators.py
+```
